@@ -1,4 +1,4 @@
-# Data Science Project - Beer Advocate Data Analysis 
+## Data Science Project - Beer Advocate Data Analysis 
 
 The beer data set can be downloaded from the following site: https://data.world/petergensler/beer-advocate-reviews.
 Note you can create a free temporary account to download this .csv.
